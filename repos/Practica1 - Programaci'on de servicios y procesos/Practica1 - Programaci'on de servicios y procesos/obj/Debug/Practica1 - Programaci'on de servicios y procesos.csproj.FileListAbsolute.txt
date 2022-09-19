@@ -1,0 +1,8 @@
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\bin\Debug\Practica1 - Programaci'on de servicios y procesos.exe.config
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\bin\Debug\Practica1 - Programaci'on de servicios y procesos.exe
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\bin\Debug\Practica1 - Programaci'on de servicios y procesos.pdb
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\obj\Debug\Practica1 - Programaci'on de servicios y procesos.csproj.AssemblyReference.cache
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\obj\Debug\Practica1 - Programaci'on de servicios y procesos.csproj.SuggestedBindingRedirects.cache
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\obj\Debug\Practica1 - Programaci'on de servicios y procesos.csproj.CoreCompileInputs.cache
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\obj\Debug\Practica1 - Programaci'on de servicios y procesos.exe
+F:\Users\joeri\source\repos\Practica1 - Programaci'on de servicios y procesos\Practica1 - Programaci'on de servicios y procesos\obj\Debug\Practica1 - Programaci'on de servicios y procesos.pdb
